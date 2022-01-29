@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(to left, rgb(245, 126, 14),white,rgb(86, 86, 255), rgb(245, 245, 245), rgb(2, 104, 2));
+}
+h1{
+    color: white;
+    font-style: italic;
+    font-size: 80px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    text-shadow: 1px 0 0 black,-1px 0 0 black,0 1px 0 black,0 -1px 0 black,0 0 50px blue,0 5px 0 black;
+}
